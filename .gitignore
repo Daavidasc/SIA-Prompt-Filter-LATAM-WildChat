@@ -1,0 +1,22 @@
+# Variables de entorno / API keys
+.env
+.env.*
+
+# Dataset pesado
+wildchat_latam_es_completo.jsonl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
